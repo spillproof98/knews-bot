@@ -15,8 +15,9 @@ body {
   margin: 0;
   background: #1c1730;
   padding: 8px;
-  padding-top: 20px;
-  
+  padding-top: calc(env(safe-area-inset-top, 16px) + 12px);
+  padding-bottom: calc(env(safe-area-inset-bottom, 16px) + 12px);
+  box-sizing: border-box;
 }
 
 .chatbot-avatar {
