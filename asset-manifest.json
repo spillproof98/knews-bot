@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Knews_bot/static/css/main.0bbc764b.css",
+    "main.js": "/Knews_bot/static/js/main.854eb6e3.js",
+    "static/media/logo.svg": "/Knews_bot/static/media/logo.686e5c384bca7e0ab57c021e4a1a6128.svg",
+    "index.html": "/Knews_bot/index.html",
+    "main.0bbc764b.css.map": "/Knews_bot/static/css/main.0bbc764b.css.map",
+    "main.854eb6e3.js.map": "/Knews_bot/static/js/main.854eb6e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbc764b.css",
+    "static/js/main.854eb6e3.js"
+  ]
+}
