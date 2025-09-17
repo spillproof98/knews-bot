@@ -10,14 +10,14 @@ body {
 .app-container {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 70vh;
   width: 100vw;
   margin: 0;
   background: #1c1730;
   padding: 8px;
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 .chatbot-avatar {
-  margin-top: env(safe-area-inset-top, 50px);
+  margin-top: env(safe-area-inset-top, 16px);
 }
