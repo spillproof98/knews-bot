@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://spillproof98.github.io/Knews_bot",
+  "homepage": "https://spillproof98.github.io/knews-bot/",
   "proxy": "http://localhost:5000",
   "dependencies": {
     "@react-three/drei": "^9.56.6",
