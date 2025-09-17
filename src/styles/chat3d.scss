@@ -3,17 +3,12 @@
   position: relative;
   overflow-y: auto;
   margin-bottom: 12px;
-  background: rgba(124,58,237,0.1);
+  background: rgba(124, 58, 237, 0.1);
   border-radius: 8px;
   padding: 8px;
   display: flex;
   flex-direction: column;
 }
-
-
-
-.chatbot-avatar {
-  margin-top: 20px;
 
 .bubble {
   padding: 12px 16px;
@@ -99,22 +94,20 @@
     height: 90vh;
     margin-top: 5vh;
   }
-  
+
   .bubble {
     max-width: 75%;
     font-size: 1rem;
   }
-  
+
   .chatbot-avatar img {
     width: 80px;
-    }
-    
-    .chatbot-avatar {
-      margin-top: 16px;
-    }
   }
-    
-    }
+
+  .chatbot-avatar {
+    margin-top: 16px;
+  }
+}
 
 @media (min-width: 1024px) {
   .app-container {
@@ -122,16 +115,16 @@
     height: 85vh;
     margin-top: 7.5vh;
   }
-  
+
   .bubble {
     max-width: 70%;
     padding: 14px 18px;
   }
-  
+
   .chat-input input {
     font-size: 1.1rem;
   }
-  
+
   .chat-input button {
     font-size: 1.1rem;
   }
